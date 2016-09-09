@@ -248,7 +248,7 @@ function create_config( )
     "filter_word",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {266338968},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -323,7 +323,7 @@ ch: @salib_ch
 
 ]],
     help_text = [[
-NOD32 Commands list :
+Salib bot Commands list :
  
 1-banhammer list ^
  
